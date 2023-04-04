@@ -1,5 +1,10 @@
 # Changelog
 
+## \[2.0.0-alpha.7]
+
+- Use local ip address for built-in dev server on mobile.
+  - [7fec0f08](https://www.github.com/tauri-apps/tauri/commit/7fec0f083c932dc63ccb8716080d97e2ab985b25) fix(cli): use local ip addr for built-in server on mobile, closes [#6454](https://www.github.com/tauri-apps/tauri/pull/6454) ([#6631](https://www.github.com/tauri-apps/tauri/pull/6631)) on 2023-04-04
+
 ## \[2.0.0-alpha.6]
 
 - Use Ubuntu 20.04 to compile the CLI, increasing the minimum libc version required.
